@@ -1,0 +1,10 @@
+C:\Users\Human Nitro5\source\repos\DigitalClockApp\bin\Debug\DigitalClockApp.exe.config
+C:\Users\Human Nitro5\source\repos\DigitalClockApp\bin\Debug\DigitalClockApp.exe
+C:\Users\Human Nitro5\source\repos\DigitalClockApp\bin\Debug\DigitalClockApp.pdb
+C:\Users\Human Nitro5\source\repos\DigitalClockApp\obj\Debug\DigitalClockApp.csproj.AssemblyReference.cache
+C:\Users\Human Nitro5\source\repos\DigitalClockApp\obj\Debug\DigitalClockApp.Form1.resources
+C:\Users\Human Nitro5\source\repos\DigitalClockApp\obj\Debug\DigitalClockApp.Properties.Resources.resources
+C:\Users\Human Nitro5\source\repos\DigitalClockApp\obj\Debug\DigitalClockApp.csproj.GenerateResource.cache
+C:\Users\Human Nitro5\source\repos\DigitalClockApp\obj\Debug\DigitalClockApp.csproj.CoreCompileInputs.cache
+C:\Users\Human Nitro5\source\repos\DigitalClockApp\obj\Debug\DigitalClockApp.exe
+C:\Users\Human Nitro5\source\repos\DigitalClockApp\obj\Debug\DigitalClockApp.pdb
