@@ -27,13 +27,6 @@ namespace DigitalClockApp
 
         private void Timer_Tick(object sender, EventArgs e)
         {
-            Timer_Tick(sender, e, sizeof
-        
-        );
-        }
-
-        private void Timer_Tick(object sender, EventArgs e, int v)
-        {
             // Get current time
             int hh = DateTime.Now.Hour;
             int mm = DateTime.Now.Minute;
@@ -44,10 +37,7 @@ namespace DigitalClockApp
 
             // Update the label
             label1.Text = time;
-            v
         }
-
-
     }
 }
         
